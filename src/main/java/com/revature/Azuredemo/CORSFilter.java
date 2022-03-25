@@ -1,4 +1,4 @@
-package com.revature.ibrahAzuredemo;
+package com.revature.Azuredemo;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;

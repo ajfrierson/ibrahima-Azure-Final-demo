@@ -1,4 +1,4 @@
-package com.revature.ibrahAzuredemo.model;
+package com.revature.Azuredemo.model;
 
 
 import javax.persistence.*;

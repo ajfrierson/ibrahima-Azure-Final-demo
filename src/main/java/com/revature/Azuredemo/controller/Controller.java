@@ -1,9 +1,9 @@
-package com.revature.ibrahAzuredemo.controller;
+package com.revature.Azuredemo.controller;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.revature.ibrahAzuredemo.model.User;
-import com.revature.ibrahAzuredemo.services.UserService;
+import com.revature.Azuredemo.model.User;
+import com.revature.Azuredemo.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

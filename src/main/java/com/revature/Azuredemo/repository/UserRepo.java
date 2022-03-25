@@ -1,6 +1,6 @@
-package com.revature.ibrahAzuredemo.repositerie;
+package com.revature.Azuredemo.repository;
 
-import com.revature.ibrahAzuredemo.model.User;
+import com.revature.Azuredemo.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

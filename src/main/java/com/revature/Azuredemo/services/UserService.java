@@ -1,8 +1,8 @@
-package com.revature.ibrahAzuredemo.services;
+package com.revature.Azuredemo.services;
 
 
-import com.revature.ibrahAzuredemo.model.User;
-import com.revature.ibrahAzuredemo.repositerie.UserRepo;
+import com.revature.Azuredemo.model.User;
+import com.revature.Azuredemo.repository.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
